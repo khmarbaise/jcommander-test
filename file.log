@@ -1,0 +1,3 @@
+2011-12-01 21:04:14,070|WARN|main|cli.jcommander.SupoSECLI|| command:null args:[Ljava.lang.String;@18a49e0
+2011-12-01 21:04:14,072|WARN|main|cli.jcommander.SupoSECLI|| args:l=0 
+2011-12-01 21:04:14,072|WARN|main|cli.jcommander.SupoSECLI||Nur usage() ausgeben
